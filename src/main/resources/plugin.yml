@@ -1,0 +1,7 @@
+name: CustomMobs
+version: 1.0.0
+main: dev.lolcrunchy.custommobs.CustomMobs
+author: LoL_Crunchy
+api-version: 1.13
+commands:
+  mobs:
